@@ -1,5 +1,6 @@
 # NLP_course_APR
 
+[Чатик в телеграме c объявлениями](https://t.me/joinchat/AAAAAE6DhhwNFxh-A4S0Ew)
 
 Программа:
 
