@@ -2,6 +2,8 @@
 
 [Чатик в телеграме c объявлениями](https://t.me/joinchat/AAAAAE6DhhwNFxh-A4S0Ew)
 
+[Ведомость](https://docs.google.com/spreadsheets/d/1DKvYUxW85vtzBY8rCuVayqCO4mqQ1tZyn-EnnYRLwIM/edit?usp=sharing)
+
 Программа:
 
 
